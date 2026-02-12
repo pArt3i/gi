@@ -1,0 +1,15 @@
+{
+  "name": "mi-primer-pipeline",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo CI/CD",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["ci", "cd", "testing"],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
